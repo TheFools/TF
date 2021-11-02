@@ -1,4 +1,5 @@
 lab3part1
+Hawlitschek, F., Notheisen, B., Teubner, T., The limits of trust-free systems: A literature review on blockchain technology and trust in the sharing economy Electronic Commerce Research and Applications Volume 29, May - June 2018, Pages 50-63
 Question | Answer
 -------------------|------------------
 Summarize the papers in a few sentences. Do not just copy the abstract or conclusion.| the use of conceptualization,trust-free systems ,blockchain technology can help us to disolve the issue of trust  in the sharing econoomy
@@ -7,7 +8,7 @@ What are the main approaches? Comment on their novelty and technical depth.|  th
 What are the major strengths of the paper?| a lot of professional wording 
 What are the major weaknesses of the paper?| less expression
 What do you learn from the paper? It can be either a new research area, or a new problem, or the approach itself, or evaluation methodology, or the results.| a new problem
-Other comments.| can introduce the technology to the readers
+Other comments.| highlight the topic on the paper
 
 lab1q6
 Program |	Software manufacturer |	Software version | Software type
