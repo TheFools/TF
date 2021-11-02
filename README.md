@@ -1,9 +1,13 @@
 lab3part1
-technology for dissolving the issue of trust in the sharing economy  | why?
+Question | Answer
 -------------------|------------------
-blockchain technology       | blockchain technology is to some degree suitable to replace trust in platform providers, and that 
-the conceptualization     | the conceptualization of trust differs substantially between the contexts of blockchain and the sharing
-trust-free systems | trust-free systems are hardly transferable to sharing economy interactions and will crucially depend on the development of trusted interfaces for blockchain-based sharing economy ecosystems.
+Summarize the papers in a few sentences. Do not just copy the abstract or conclusion.| the use of conceptualization,trust-free systems ,blockchain technology can help us to disolve the issue of trust  in the sharing econoomy
+What are the keywords used to categorize the paper?|conceptualization,trust-free systems ,blockchain technology 
+What are the main approaches? Comment on their novelty and technical depth.|  the conceptualization of trust differs substantially between the contexts of blockchain and the sharing economy, blockchain technology is to some degree suitable to replace trust in platform providers, and that trust-free systems are hardly transferable to sharing economy interactions and will crucially depend on the development of trusted interfaces for blockchain-based sharing economy ecosystems.
+What are the major strengths of the paper?| a lot of professional wording 
+What are the major weaknesses of the paper?| less expression
+What do you learn from the paper? It can be either a new research area, or a new problem, or the approach itself, or evaluation methodology, or the results.| a new problem
+Other comments.| can introduce the technology to the readers
 
 lab1q6
 Program |	Software manufacturer |	Software version | Software type
